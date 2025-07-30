@@ -74,7 +74,7 @@ This repository features an Excel analytics dashboard for a simulated B2B food t
 
 ## 🚀 How to Use
 
-1. Open `ProSessedAI_FoodTrade_Analytics_2024.xlsx` in Microsoft Excel.
+1. Open `ABC_Food_Trade_Data.xlsx` in Microsoft Excel.
 2. Go to the `Dashboard` sheet for main insights and interactivity.
 3. Use the slicers (Product, State, Port, Month, Payment Status) to drill down KPIs and charts by different segments.
 
